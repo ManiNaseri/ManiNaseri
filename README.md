@@ -1,6 +1,5 @@
-# 💫 About Me:
-I'm a dedicated and detail-oriented developer with a strong interest in data-driven technologies.<br>Here are some of the key skills and areas I'm focused on:<br><br>- ✅ "Machine Learning" – Certified in core ML concepts and applications  <br>- 🔐 "Ethical Hacking" – Currently undergoing CEH training  <br>- 💻 "Programming Languages" – Proficient in **Python**, and **C** <br>- <br>I'm always open to new opportunities and collaborative projects that push boundaries.
-
+#  About Me:
+Cybersecurity Analyst | Malware & Wi-Fi Security Researcher | Focused on vulnerability analysis, wireless attacks, and system defense
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abitofmani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@__Manlock__) 
