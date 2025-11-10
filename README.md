@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a dedicated and detail-oriented developer with a strong interest in data-driven technologies.<br>Here are some of the key skills and areas I'm focused on:<br><br>- ✅ "Machine Learning" – Certified in core ML concepts and applications  <br>- 🔐 "Ethical Hacking" – Currently undergoing CEH training  <br>- 💻 "Programming Languages" – Proficient in **Python**, **JavaScript**, and **C**  <br>- 📈 Committed to writing clean, efficient code and delivering practical solutions  <br>- 🌱 Continuously learning and evolving through real-world projects and training<br><br>I'm always open to new opportunities and collaborative projects that push boundaries.
+I'm a dedicated and detail-oriented developer with a strong interest in data-driven technologies.<br>Here are some of the key skills and areas I'm focused on:<br><br>- ✅ "Machine Learning" – Certified in core ML concepts and applications  <br>- 🔐 "Ethical Hacking" – Currently undergoing CEH training  <br>- 💻 "Programming Languages" – Proficient in **Python**, and **C** <br>- <br>I'm always open to new opportunities and collaborative projects that push boundaries.
 
 
 ## 🌐 Socials:
